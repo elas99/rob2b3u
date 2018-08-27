@@ -1,0 +1,62 @@
+Elas, Hilmar && Sigurður
+
+
+Elhisi The Robot
+
+Robo Brainstorm
+
+
+
+Þrautir:
+Litaþraut, vélmenni eltir grænan bolta og fer frá rauðum boltum (Vision Sensor)
+
+Stýringar á controller virka fullkomnlega
+
+Þegar hann klessir á, stoppar hann með bumper switch
+
+Ultrasonic range finder - Sér fjarlægð frá vegg og stoppar innan við 2 metra t.d.
+
+Livestream camera, notum þetta til þess að keyra vélmennið á staði sem við sjáum ekki
+
+Notum kló til þess að sækja í einhvað og skila því á einhvern stað
+
+Kenna róbotinum að hella vatni
+
+Kenna róbotinum að henda einhverju 
+
+Elta labbandi manneskju
+
+Sprengja egg/blöðru með kló
+
+Whirlwind - Snúast í hringi
+
+Keyra eftir línu
+
+Svara í síma
+
+Slókkva á tölvu
+
+Kasta bolta í körfu
+
+Klappa
+
+High Five
+
+
+
+
+o.s.fl.
+
+
+Top 5:
+Livestream Camera
+Litaþrautir
+Controller
+Elta Manneskju
+Kasta bolta
+
+
+
+
+
+
