@@ -16,8 +16,6 @@ Livestream Video Feed.
 Í þessu verkefni ætlum við að nota myndavél sem verður mountuð framan á róbotinn, og við ætlum að sjá beina útsendingu af því sem vélmennið sér fyrir framan sig, við ætlum að reyna að láta vélmennið fara á staði þar sem við sjáum ekki til og ná í t.d. bolta með því að nota controller sem fylgir með vélmenninu
 
 
-
-
 Þriðja verkefnið:
 Elta manneskju
 Vélmennið nær að detecta og elta manneskju með því að nota sensors, hraðinn á vélmenninu bætist hverja sekúndu þannig að manneskjan verður að hlaupa í endanum. Þegar róbotinn nær manneskjuni stoppar hann og snýst í hringi til þess að fagna sigur.
