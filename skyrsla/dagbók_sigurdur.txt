@@ -4,3 +4,5 @@ daginn 6/9/2018
 var ég að búa til gant rit 
 daginn 10/9/2018
 kláruðum lýsingua á verkefniu
+20/09/2018
+gerðum myndir í paint firir verkefnin
