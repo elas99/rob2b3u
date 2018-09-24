@@ -6,3 +6,5 @@ Kláruðum lýsinguna á verkefninu (500 orða, skil á innu)
 teiknaði myndir
 20/09
 Kláraði að teikna myndir
+24/09
+Bjó til Flowcharts á verkefnum og horfðum á VEX Video
