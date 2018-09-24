@@ -6,3 +6,5 @@ daginn 10/9/2018
 kláruðum lýsingua á verkefniu
 20/09/2018
 gerðum myndir í paint firir verkefnin
+24/9/2018
+gerði diagram fyrir verkefni og skoðum vex video í tíma
