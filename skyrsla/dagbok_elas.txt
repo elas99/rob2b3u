@@ -8,3 +8,5 @@ teiknaði myndir
 Kláraði að teikna myndir
 24/09
 Bjó til Flowcharts á verkefnum og horfðum á VEX Video
+27/09
+Kláruðum að búa til Flowcharts
